@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(jackal_viz)
+project(ridgeback_viz)
 
 find_package(catkin REQUIRED COMPONENTS roslaunch)
 

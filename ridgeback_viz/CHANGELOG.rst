@@ -1,5 +1,5 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Changelog for package jackal_viz
+Changelog for package ridgeback_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 0.3.1 (2015-01-20)
@@ -22,7 +22,7 @@ Changelog for package jackal_viz
 
 0.1.1 (2014-09-06)
 ------------------
-* Fix install target for jackal_viz.
+* Fix install target for ridgeback_viz.
 * Contributors: Mike Purvis
 
 0.1.0 (2014-09-05)
