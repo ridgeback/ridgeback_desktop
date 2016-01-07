@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>ridgeback_desktop</name>
-  <version>0.3.1</version>
+  <version>0.0.0</version>
   <description>Packages for working with Ridgeback from a ROS desktop.</description>
 
   <maintainer email="mpurvis@clearpathrobotics.com">Mike Purvis</maintainer>
@@ -12,7 +12,7 @@
 
   <buildtool_depend>catkin</buildtool_depend>
   <run_depend>ridgeback_msgs</run_depend>
-  <run_depend version_gte="0.3.1">ridgeback_viz</run_depend>
+  <run_depend>ridgeback_viz</run_depend>
 
   <export><metapackage/></export>
 </package>
