@@ -2,6 +2,9 @@
 Changelog for package ridgeback_desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.1.1 (2016-05-25)
 ------------------
 
