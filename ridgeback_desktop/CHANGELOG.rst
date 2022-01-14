@@ -2,6 +2,9 @@
 Changelog for package ridgeback_desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.1.2 (2020-04-20)
 ------------------
 

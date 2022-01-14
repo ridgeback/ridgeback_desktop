@@ -2,6 +2,14 @@
 Changelog for package ridgeback_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Add rqt directory and launch check
+* Alphabetized and added rqt_gui as run_depend
+* Add view_diagnostics.launch
+* Use the RIDGEBACK_CONFIG envar as the default value for the config arg when viewing the model
+* Contributors: Chris Iverach-Brereton, Luis Camero, luis-camero
+
 0.1.2 (2020-04-20)
 ------------------
 * [ridgeback_viz] Removed joint_state_publisher since joint_state_publisher_gui is generating the same data.
