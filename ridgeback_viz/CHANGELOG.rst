@@ -2,8 +2,8 @@
 Changelog for package ridgeback_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.3 (2022-01-14)
+------------------
 * Add rqt directory and launch check
 * Alphabetized and added rqt_gui as run_depend
 * Add view_diagnostics.launch
